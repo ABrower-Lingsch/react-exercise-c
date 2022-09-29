@@ -14,7 +14,8 @@ body {
   flex-direction: column;
   align-items: center;
   width: 100%;
-  color: rgb(181, 194, 234)
+  color: rgb(181, 194, 234);
+  background-color: rgb(9, 5, 16);
 }
 
 main {
