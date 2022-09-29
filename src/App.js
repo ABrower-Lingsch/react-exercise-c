@@ -1,10 +1,10 @@
-
+import BlogReadingApp from './components/BlogReadingApp';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <BlogReadingApp />
     </div>
   );
 }
